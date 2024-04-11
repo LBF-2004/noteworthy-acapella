@@ -1,0 +1,173 @@
+{
+  "Header": {
+    "title": "NOTEWORTHY PRESENTS",
+    "paragraph": "WELCOME BACK TO A CAPELLA"
+  },
+  "About": {
+    "paragraph":" We’re a lower-voices a cappella group known for our fun performances and fresh takes on popular songs! It always feels sunny when we perform, and not just because of our golden vests! Since our founding in 2000, we’ve gone million-view-viral on YouTube multiple times, released an album entirely composed of original songs, and performed at the 2022 UC Berkeley commencement.",
+    "Why": [
+      "We take song requests",
+      "Check out our current repertoire for a sample of the songs we perform. If the song you want isn't listed there, ask us about it — we might have it arranged already. With enough advance notice, we can perform anything from our archive, which is large and always growing.",
+      "Times and locations",
+      "We’re available to perform throughout the academic year and can travel anywhere in the Bay Area. Traveling beyond the Bay Area may require extra planning and travel costs."
+    ],
+    "Why2": [
+      "UC Berkeley charity events",
+      "If you are a subsidiary of UC Berkeley, and you’re organizing a charity event on campus, we are happy to give you a reduced rate."
+    ]
+  },
+  "Services": [
+    {
+      "name": "Events",
+      "text": "We organize Welcome Back to A Cappella, Cal’s a cappella orientation, at the beginning of every semester. Hundreds of students turn out to hear 13+ a cappella groups perform. The show is always fun, and we hope you’ll come!"
+    },
+    {
+      "name": "Hire Us",
+      "text": "We’re no stranger to weddings, private parties, tailgates, and conferences.We’ve performed at venues including San Francisco City Hall, University House, the Faculty Club, and UC Berkeley’s 2022 Commencement."
+    },
+    {
+      "icon": "",
+      "name": "Follow Us"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/alex.jpg",
+      "name": "Alex"
+    },
+    {
+      "img": "img/team/anthony.jpg",
+      "name": "Anthony"
+    },
+    {
+      "img": "img/team/athena.jpg",
+      "name": "athena"
+    }, 
+    {
+      "img": "img/team/bhaskar.jpg",
+      "name": "bhaskar"
+    },
+    {
+      "img": "img/team/caitlyn.jpg",
+      "name": "caitlyn"
+    },
+    {
+      "img": "img/team/chris.jpg",
+      "name": "chris"
+    },
+    {
+      "img": "img/team/dell.jpg",
+      "name": "dell"
+    },
+    {
+      "img": "img/team/eddie.jpg",
+      "name": "eddie"
+    },
+    {
+      "img": "img/team/ellington.jpg",
+      "name": "ellington"
+    },
+    {
+      "img": "img/team/ethan.jpg",
+      "name": "ethan"
+    },
+    {
+      "img": "img/team/jerry.jpg",
+      "name": "jerry"
+    },
+    {
+      "img": "img/team/jessica.jpg",
+      "name": "jessica"
+    },
+    {
+      "img": "img/team/justin.jpg",
+      "name": "justin"
+    },
+    {
+      "img": "img/team/kian.jpg",
+      "name": "kian"
+    },
+    {
+      "img": "img/team/madlen.jpg",
+      "name": "madlen"
+    },
+    {
+      "img": "img/team/maya.jpg",
+      "name": "maya"
+    },
+    {
+      "img": "img/team/tom.jpg",
+      "name": "tom"
+    },
+    {
+      "img": "img/team/andrew.jpg",
+      "name": "Andrew"
+    },
+    {
+      "img": "img/team/stephanus.jpg",
+      "name": "stephanus"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
